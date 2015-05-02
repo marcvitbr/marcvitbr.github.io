@@ -1,0 +1,24 @@
+{
+  "title": "Press Kit - CodeRogue Studio",
+  "largeLinks": [
+    {
+      "name": "CodeRogueStudio.com",
+      "link": "&#47;"
+    }
+  ],
+  "layout": {
+    "40%_Width": [
+      "factsheet"
+    ],
+    "60%_Width": [
+      "description",
+      "history",
+      "projects"
+    ],
+    "50%_Width": [
+      "team-repeating-collaborator",
+      "contact"
+    ]
+  },
+  "googleAnalytics": ""
+}
