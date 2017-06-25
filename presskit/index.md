@@ -35,7 +35,7 @@ CodeRogue Studio is a brand new game studio based in Sao Paulo, Brazil. They hav
 ## History
 
 ### The story
-CodeRogue Studio was founded by Marcelo Vitoria and Joao Arthur Navarro, after much talking, studying and a couple of prototypes. Along with the technical skills and creativity, they decided it was time to start making games for real, and have been pursuing this dream more seriously in the past year. They've worked in their first title, Hungrymons, following the idea to deliver a simple, casual, and yet fun and addictive experience to the mobile platforms. They now want to continue to explore new grounds and push their boundaries to achieve one goal, and one goal only: Make fun games!
+CodeRogue Studio was founded by Marcelo Vitoria and Joao Arthur Navarro, after much talking, studying and a couple of prototypes. Along with the technical skills and creativity, they decided it was time to start making games for real, and have been pursuing this dream more seriously. They've worked in their first title, Hungrymons, following the idea to deliver a simple, casual, and yet fun and addictive experience to the mobile platforms. They now want to continue to explore new grounds and push their boundaries to achieve one goal, and one goal only: Make fun games!
 
 ### The team
 Marcelo has been a programmer for over ten years, and has always been passionate about technology, programming languages, SDKs and frameworks, not to mention his care and effort to always write the best code he can.
