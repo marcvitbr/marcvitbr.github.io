@@ -1,10 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{ CodeRogue Studio }</title>
-    <description>A brand new game studio based in Sao Paulo, Brazil.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-12T11:46:57-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Marcelo Vitoria</title><subtitle>I&apos;m a Software Engineer from Brazil, and here you will find information about my apps and other topics I like to write about.</subtitle><entry><title type="html">Download Wealthio - Net Worth Tracker on the App Store!</title><link href="http://localhost:4000/app/net/worth/tracker/2025/05/22/download-wealthio.html" rel="alternate" type="text/html" title="Download Wealthio - Net Worth Tracker on the App Store!" /><published>2025-05-22T15:00:00-03:00</published><updated>2025-05-22T15:00:00-03:00</updated><id>http://localhost:4000/app/net/worth/tracker/2025/05/22/download-wealthio</id><content type="html" xml:base="http://localhost:4000/app/net/worth/tracker/2025/05/22/download-wealthio.html"><![CDATA[<p>Track your net worth effortlessly.</p>
+
+<p>Wealthio brings all your financial assets into one clean, powerful dashboard — across multiple currencies.</p>
+
+<p>Whether you’re managing crypto, real estate, bank accounts, or vehicles, Wealthio helps you stay on top of your total financial picture. Add assets manually, convert between currencies in real time, and visualize your net worth growth at a glance.</p>
+
+<p>Key Features:</p>
+<ul>
+  <li>Track all types of assets in one place</li>
+  <li>Support for 20+ global currencies</li>
+  <li>Real-time currency and Bitcoin price updates</li>
+  <li>Instant net worth summary, converted into your preferred currency</li>
+  <li>Beautiful Home Screen widget for quick access</li>
+  <li>Optional privacy toggle to hide your net worth in public</li>
+</ul>
+
+<p>Wealthio is designed for clarity, speed, and focus — no clutter, no distractions. Just your finances, clearly visualized.</p>
+
+<p>Start building a better relationship with your wealth — with Wealthio.</p>
+
+<p><a href="https://apps.apple.com/br/app/wealthio-net-worth-tracker/id6745744909?l=en-GB">Download on the App Store</a></p>]]></content><author><name></name></author><category term="app" /><category term="net" /><category term="worth" /><category term="tracker" /><summary type="html"><![CDATA[Track your net worth effortlessly.]]></summary></entry><entry><title type="html">Download Hungrymons on the App Store!</title><link href="http://localhost:4000/mobile/game/2024/04/02/download-hungrymons.html" rel="alternate" type="text/html" title="Download Hungrymons on the App Store!" /><published>2024-04-02T15:00:00-03:00</published><updated>2024-04-02T15:00:00-03:00</updated><id>http://localhost:4000/mobile/game/2024/04/02/download-hungrymons</id><content type="html" xml:base="http://localhost:4000/mobile/game/2024/04/02/download-hungrymons.html"><![CDATA[<p>Hungrymons is all about a casual and fun experience everyone can enjoy.</p>
+
+<p>With a simple and intuitive gameplay mechanic, you must feed the monsters on the screen to earn points, make combos and beat your own highscore! But be careful, avoid the bombs and poison flasks so you can make your way to the top!</p>
+
+<p>Gotta feed’em all!</p>
+
+<p><a href="https://apps.apple.com/br/app/hungrymons/id945895569?l=en-GB">Download on the App Store</a></p>]]></content><author><name></name></author><category term="mobile" /><category term="game" /><summary type="html"><![CDATA[Hungrymons is all about a casual and fun experience everyone can enjoy.]]></summary></entry></feed>
